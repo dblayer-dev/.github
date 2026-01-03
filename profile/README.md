@@ -129,9 +129,6 @@ Contains background worker scripts used for:
 
 ### 7. Status
 
-**Repository:** [https://github.com/dblayer-dev/status.dblayer.dev](https://github.com/dblayer-dev/status.dblayer.dev)
-
-Implements the public status and health monitoring page for DBlayer.
 Initially integrated with external cron-based uptime monitoring.
 
 ---
